@@ -8,7 +8,7 @@ public class B extends A{
       objectb.instanceB();
       B.staticB();
 	}
-	
+	//abshi
 	{
       System.out.println(avarInstance1);  // instance area
     //  System.out.println(avarInstance2); // instance variable  to child of parent directly access on instance area
