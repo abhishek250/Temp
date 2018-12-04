@@ -2,7 +2,7 @@ package com.java.access.modifier;
 
 public class B extends A{
 	
-	
+	//java by kiran
 	public static void main(String[] args) {
 		B objectb=new B();
       objectb.instanceB();
