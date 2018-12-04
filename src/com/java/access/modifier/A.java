@@ -1,6 +1,8 @@
 package com.java.access.modifier;
 
 public class A {
+	
+	//checking demo1
 
 	public int  avarInstance1; //all class
 	private int  avarInstance2; //same class  no child class  
